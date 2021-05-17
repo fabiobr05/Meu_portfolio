@@ -4,6 +4,7 @@ Portfolio that contains my Data Science Projects
 ## Sumario
 * ### Projetos Power BI
   * [Analysis of Healthcare Operators](#ProjectBI_1)
+
 * ### Projetos em Linguagem R
   * [Reading CSV files](#ProjectR_1)
 
