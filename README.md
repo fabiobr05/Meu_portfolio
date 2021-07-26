@@ -16,7 +16,7 @@ Portfolio that contains my Data Science Projects
 ## BitCoin Quote Analysis <a name="ProjectPython_1"></a>
 [Link do Arquivo](https://github.com/fabiobr05/Cotacao_Bitcoin)
 
-![](Python_BitCoin.jpg)
+![](Python_BitCoin.png)
 
 Este projeto faz parte de um dos meus primeiros desejos quando aprendi python.
 Se eu te digo, baixe dados de uma API que sao atualizados constantimente e ao final de um tempo pre determinado plot um grafico mostrando a evolução temporal do que foi analisado. Você conseguiria?
