@@ -2,12 +2,26 @@
 Portfolio that contains my Data Science Projects
 
 ## Sumario
+* ### Projetos em Linguagem Python
+  * [BitCoin Quote Analysis](#ProjectPython_1)
+
 * ### Projetos Power BI
   * [Analysis of Healthcare Operators](#ProjectBI_1)
 
 * ### Projetos em Linguagem R
   * [Reading CSV files](#ProjectR_1)
 
+# Python Projects
+
+## BitCoin Quote Analysis <a name="ProjectPython_1"></a>
+[Link do Arquivo](https://github.com/fabiobr05/Cotacao_Bitcoin)
+
+![](Python_BitCoin.jpg)
+
+Este projeto faz parte de um dos meus primeiros desejos quando aprendi python.
+Se eu te digo, baixe dados de uma API que sao atualizados constantimente e ao final de um tempo pre determinado plot um grafico mostrando a evolução temporal do que foi analisado. Você conseguiria?
+Pois bem, ai esta!
+Um projeto bem simples com muitas sutilizas que vai lhe ajudar a evoluir na ciencia de dados. Bom proveito!
 
 # BI Projects
 
