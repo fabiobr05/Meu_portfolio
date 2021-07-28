@@ -5,10 +5,10 @@ Portfolio that contains my Data Science Projects
 * ### Projetos em Linguagem Python
   * [BitCoin Quote Analysis](#ProjectPython_1)
   * [Head Tails](#ProjectPython_2)
-<br>
+
 * ### Projetos Power BI
   * [Analysis of Healthcare Operators](#ProjectBI_1)
-<br>
+
 * ### Projetos em Linguagem R
   * [Reading CSV files](#ProjectR_1)
 
