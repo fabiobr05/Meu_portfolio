@@ -4,6 +4,7 @@ Portfolio that contains my Data Science Projects
 ## Sumario
 * ### Projetos em Linguagem Python
   * [BitCoin Quote Analysis](#ProjectPython_1)
+  * [Head Tails](#ProjectPython_2)
 
 * ### Projetos Power BI
   * [Analysis of Healthcare Operators](#ProjectBI_1)
@@ -12,6 +13,11 @@ Portfolio that contains my Data Science Projects
   * [Reading CSV files](#ProjectR_1)
 
 # Python Projects
+
+## Head Tails <a name="ProjectPython_2"></a>
+[Link do Arquivo](https://github.com/fabiobr05/Cara_Coroa)
+
+![](Python_CaraCoroa.JPG)
 
 ## BitCoin Quote Analysis <a name="ProjectPython_1"></a>
 [Link do Arquivo](https://github.com/fabiobr05/Cotacao_Bitcoin)
