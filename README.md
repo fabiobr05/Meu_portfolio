@@ -14,14 +14,6 @@ Portfolio that contains my Data Science Projects
 
 # Python Projects
 
-## Head Tails <a name="ProjectPython_2"></a>
-[Link do Arquivo](https://github.com/fabiobr05/Cara_Coroa)
-
-![](Python_CaraCoroa.JPG)
-
-Cara ou Coroa é um jogo simples, que consiste em se atirar uma moeda ao ar para então verificar qual de seus lados ficou voltado para cima após sua queda. É comumente utilizado para se escolher entre duas alternativas ou para resolver uma disputa entre duas partes. Esse método de escolha tem necessariamente apenas duas possibilidades de resultado, as quais têm a mesma probabilidade de ocorrência.<br>
-Este programa consiste em avaliar a probabilidade de ocorrer cara ou coroa dado um numero de sorteios sempre aleatório. Ótimo para uso didático e da biblioteca random. Bom proveito!
-
 ## BitCoin Quote Analysis <a name="ProjectPython_1"></a>
 [Link do Arquivo](https://github.com/fabiobr05/Cotacao_Bitcoin)
 
@@ -31,6 +23,14 @@ Este projeto faz parte de um dos meus primeiros desejos quando aprendi python.
 Se eu te digo, baixe dados de uma API que sao atualizados constantimente e ao final de um tempo pre determinado plot um grafico mostrando a evolução temporal do que foi analisado. Você conseguiria?
 Pois bem, ai esta!
 Um projeto bem simples com muitas sutilizas que vai lhe ajudar a evoluir na ciencia de dados. Bom proveito!
+
+## Head Tails <a name="ProjectPython_2"></a>
+[Link do Arquivo](https://github.com/fabiobr05/Cara_Coroa)
+
+![](Python_CaraCoroa.JPG)
+
+Cara ou Coroa é um jogo simples, que consiste em se atirar uma moeda ao ar para então verificar qual de seus lados ficou voltado para cima após sua queda. É comumente utilizado para se escolher entre duas alternativas ou para resolver uma disputa entre duas partes. Esse método de escolha tem necessariamente apenas duas possibilidades de resultado, as quais têm a mesma probabilidade de ocorrência.[Wikipédia](https://pt.wikipedia.org/wiki/Cara_ou_coroa)<br>
+Este programa consiste em avaliar a probabilidade de ocorrer cara ou coroa dado um numero de sorteios sempre aleatório. Ótimo para uso didático e da biblioteca random. Bom proveito!
 
 # BI Projects
 
