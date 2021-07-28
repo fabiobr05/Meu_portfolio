@@ -2,7 +2,7 @@
 Portfolio that contains my Data Science Projects
 
 ## Sumario
-* ### Projetos em Linguagem Python
+* ### Projetos em Linguagem Python<br>
   * [BitCoin Quote Analysis](#ProjectPython_1)
   * [Head Tails](#ProjectPython_2)
 
